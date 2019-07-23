@@ -38,7 +38,7 @@ echo ""
 echo "-------------------------------------------"
 echo "Are You Sure Want To Install Metasploit ?"
 echo "-------------------------------------------"
-echo ""
+echo ""install.sh
 echo "Press Enter if you Agree / Continue Install"
 echo "Press CTRL + C if you Disagree / Cancel Install"
 read ENTER
